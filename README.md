@@ -1,4 +1,4 @@
-# The Access Powers WIP
+# The Access Powers
 
 ### Project Description:
 - **Study Courses:**
